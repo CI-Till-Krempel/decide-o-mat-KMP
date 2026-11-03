@@ -1,3 +1,6 @@
 [submodule "decide-o-mat"]
 	path = decide-o-mat
 	url = git@github.com:Cologne-Intelligence/Decide-O-Mat.git
+[submodule "horseless-carriage"]
+	path = horseless-carriage
+	url = git@github.com:CI-Till-Krempel/Horseless-Carriage.git
