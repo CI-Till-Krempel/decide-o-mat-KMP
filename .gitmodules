@@ -1,0 +1,3 @@
+[submodule "decide-o-mat"]
+	path = decide-o-mat
+	url = git@github.com:Cologne-Intelligence/Decide-O-Mat.git
