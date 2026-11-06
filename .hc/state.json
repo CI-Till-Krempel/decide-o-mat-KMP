@@ -27,9 +27,10 @@
       "type": "User Story",
       "id": "US-0001",
       "stages_completed": [
-        "Draft"
+        "Draft",
+        "Ready"
       ],
-      "status": "Draft"
+      "status": "Ready"
     }
   ],
   "definition_of_done": [
@@ -57,10 +58,10 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 84978,
+    "total": 100430,
     "agents": {
       "ScrumOrchestrator": 11270,
-      "ProductOwner": 73708
+      "ProductOwner": 89160
     }
   },
   "story_estimates": {},
