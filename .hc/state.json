@@ -31,14 +31,7 @@
         "Ready"
       ],
       "status": "Ready",
-      "blocked": {
-        "question": "The 'develop' branch does not exist in the repository. How can we create it to proceed with the sprint planning?",
-        "category": "technical",
-        "raised_by": "ProductOwner",
-        "raised_at_stage": "Ready",
-        "escalated_to_user": false,
-        "blocking_interaction_id": 3
-      }
+      "blocked": null
     }
   ],
   "definition_of_done": [
