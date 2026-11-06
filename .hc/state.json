@@ -59,11 +59,11 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 350775,
+    "total": 434858,
     "agents": {
       "ScrumOrchestrator": 24618,
-      "ProductOwner": 312960,
-      "Architect": 13197
+      "ProductOwner": 370107,
+      "Architect": 40133
     }
   },
   "story_estimates": {},
@@ -212,6 +212,15 @@
       "created_at": "2026-11-06T10:20:10.859231+00:00",
       "resolved": true,
       "resolved_at": "2026-11-06T10:25:01.391116+00:00"
+    },
+    {
+      "id": 3,
+      "kind": "blocked_story",
+      "summary": "'US-0001' is BLOCKED (technical): The 'develop' branch does not exist in the repository. How can we create it to proceed with the sprint planning?",
+      "detail": "Raised by ProductOwner. Resolve via Architect's resolve_story_blocker('US-0001', resolution).",
+      "created_at": "2026-11-06T10:26:05.556558+00:00",
+      "resolved": false,
+      "resolved_at": null
     }
   ],
   "overclaim_rejection_counts": {},
