@@ -3,7 +3,16 @@
   "product_vision": "",
   "product_goals": [],
   "architecture_vision": "",
-  "product_backlog": [],
+  "product_backlog": [
+    {
+      "title": "User Authentication System",
+      "description": "Implement a robust user authentication system for the application.",
+      "version": "MVP",
+      "stories": [],
+      "type": "Epic",
+      "id": "EP-0001"
+    }
+  ],
   "definition_of_done": [
     "Code reviewed",
     "Automated tests passing",
@@ -29,10 +38,10 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 25512,
+    "total": 39902,
     "agents": {
       "ScrumOrchestrator": 11270,
-      "ProductOwner": 14242
+      "ProductOwner": 28632
     }
   },
   "story_estimates": {},
