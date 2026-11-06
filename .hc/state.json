@@ -25,7 +25,11 @@
       "depends_on": [],
       "version": "MVP",
       "type": "User Story",
-      "id": "US-0001"
+      "id": "US-0001",
+      "stages_completed": [
+        "Draft"
+      ],
+      "status": "Draft"
     }
   ],
   "definition_of_done": [
@@ -53,10 +57,10 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 54645,
+    "total": 84978,
     "agents": {
       "ScrumOrchestrator": 11270,
-      "ProductOwner": 43375
+      "ProductOwner": 73708
     }
   },
   "story_estimates": {},
@@ -92,7 +96,8 @@
   "unadvanced_write_nudge_baseline": 0,
   "sprint_files_touched": [
     "specs/ROADMAP.md",
-    "specs/stories/EP-0001-User-Authentication-System.md"
+    "specs/stories/EP-0001-User-Authentication-System.md",
+    "specs/stories/US-0001-Implement-User-Registration.md"
   ],
   "source_content_change_count": 0,
   "last_check_build": null,
