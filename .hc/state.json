@@ -11,6 +11,21 @@
       "stories": [],
       "type": "Epic",
       "id": "EP-0001"
+    },
+    {
+      "title": "Implement User Registration",
+      "user_story": "As a new user, I want to register for an account so that I can use the application",
+      "acceptance_criteria": [
+        "Given a new user, when they enter valid credentials and submit the registration form, then a new user account is created and a confirmation message is displayed",
+        "Given a new user, when they enter an email address already in use, then an error message is displayed",
+        "Given a new user, when they enter an invalid email format, then an error message is displayed"
+      ],
+      "priority": "Must",
+      "value_hypothesis": "Users can create new accounts and start using the application",
+      "depends_on": [],
+      "version": "MVP",
+      "type": "User Story",
+      "id": "US-0001"
     }
   ],
   "definition_of_done": [
@@ -38,10 +53,10 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 39902,
+    "total": 54645,
     "agents": {
       "ScrumOrchestrator": 11270,
-      "ProductOwner": 28632
+      "ProductOwner": 43375
     }
   },
   "story_estimates": {},
@@ -76,7 +91,8 @@
   "dev_touch_baseline": 0,
   "unadvanced_write_nudge_baseline": 0,
   "sprint_files_touched": [
-    "specs/ROADMAP.md"
+    "specs/ROADMAP.md",
+    "specs/stories/EP-0001-User-Authentication-System.md"
   ],
   "source_content_change_count": 0,
   "last_check_build": null,
