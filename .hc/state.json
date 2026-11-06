@@ -67,10 +67,10 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 195288,
+    "total": 229578,
     "agents": {
       "ScrumOrchestrator": 24618,
-      "ProductOwner": 170670
+      "ProductOwner": 204960
     }
   },
   "story_estimates": {},
@@ -208,8 +208,8 @@
       "summary": "'US-0001' is BLOCKED (product): ProductOwner and ScrumOrchestrator bounced transfer_to_agent 3x with no progress - 🔁 [TRANSFER LOOP DETECTED] ProductOwner and ScrumOrchestrator have handed off to each other 3 times in a row with no other tool call in between - refusing this transfer. Stop transferring and actually call a tool that makes progress (e.g. the mandatory step you're both routing around), or explain the blocker instead of handing off again.",
       "detail": "Raised by ProductOwner. Resolve via ProductOwner's resolve_story_blocker('US-0001', resolution).",
       "created_at": "2026-11-06T10:19:15.939433+00:00",
-      "resolved": false,
-      "resolved_at": null
+      "resolved": true,
+      "resolved_at": "2026-11-06T10:19:45.936623+00:00"
     }
   ],
   "overclaim_rejection_counts": {},
