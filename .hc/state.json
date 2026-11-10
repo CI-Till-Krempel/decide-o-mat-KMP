@@ -164,7 +164,14 @@
         "Ready"
       ],
       "status": "Ready",
-      "blocked": null
+      "blocked": {
+        "question": "ScrumMaster is unable to manually commit or stash the local changes in \\.idea/workspace.xml to avoid branch conflicts. How can we resolve this issue and proceed with starting the sprint?",
+        "category": "product",
+        "raised_by": "ProductOwner",
+        "raised_at_stage": "Ready",
+        "escalated_to_user": false,
+        "blocking_interaction_id": 27
+      }
     }
   ],
   "definition_of_done": [
