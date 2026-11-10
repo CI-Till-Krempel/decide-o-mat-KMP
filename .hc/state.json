@@ -164,14 +164,7 @@
         "Ready"
       ],
       "status": "Ready",
-      "blocked": {
-        "question": "There is a loop detected in the transfer and tool calls. How can we resolve this issue and proceed with starting the sprint?",
-        "category": "product",
-        "raised_by": "ProductOwner",
-        "raised_at_stage": "Ready",
-        "escalated_to_user": false,
-        "blocking_interaction_id": 15
-      }
+      "blocked": null
     }
   ],
   "definition_of_done": [
