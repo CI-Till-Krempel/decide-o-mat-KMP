@@ -255,10 +255,10 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 1662418,
+    "total": 1692900,
     "agents": {
       "ScrumMaster": 1107327,
-      "ProductOwner": 507466,
+      "ProductOwner": 537948,
       "ScrumOrchestrator": 47625
     }
   },
@@ -808,8 +808,8 @@
       "summary": "'US-0006' is BLOCKED (product): ScrumMaster is unable to commit or stash local changes to avoid branch conflicts before starting the sprint. How can we resolve this issue and proceed with starting the sprint?",
       "detail": "Raised by ProductOwner. Resolve via ProductOwner's resolve_story_blocker('US-0006', resolution).",
       "created_at": "2026-11-10T11:05:11.403771+00:00",
-      "resolved": false,
-      "resolved_at": null
+      "resolved": true,
+      "resolved_at": "2026-11-10T11:05:38.541383+00:00"
     }
   ],
   "overclaim_rejection_counts": {},
