@@ -164,7 +164,14 @@
         "Ready"
       ],
       "status": "Ready",
-      "blocked": null
+      "blocked": {
+        "question": "ScrumMaster is unable to commit or stash local changes to avoid branch conflicts before starting the sprint. How can we resolve this issue and proceed with starting the sprint?",
+        "category": "product",
+        "raised_by": "ProductOwner",
+        "raised_at_stage": "Ready",
+        "escalated_to_user": false,
+        "blocking_interaction_id": 24
+      }
     }
   ],
   "definition_of_done": [
