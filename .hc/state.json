@@ -222,6 +222,12 @@
       "decision": "Stop calling start_sprint with the same arguments and address the underlying issue.",
       "rationale": "The ScrumMaster is repeatedly calling start_sprint with the same goal, causing a loop and preventing progress. The local changes preventing the checkout should be committed or stashed. Once the changes are integrated or stashed, the ScrumMaster can attempt to start the sprint again.",
       "owner": "ScrumMaster"
+    },
+    {
+      "title": "Local Changes Handling",
+      "decision": "Commit local changes to avoid branch conflicts before starting the sprint.",
+      "rationale": "The local changes in \\.idea/workspace.xml are preventing the checkout of the 'develop' branch. Committing these changes will allow the ScrumMaster to proceed with starting the sprint without encountering errors.",
+      "owner": "ScrumMaster"
     }
   ],
   "sprint_report": "",
@@ -230,9 +236,9 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 1164408,
+    "total": 1220644,
     "agents": {
-      "ScrumMaster": 751437,
+      "ScrumMaster": 807673,
       "ProductOwner": 365346,
       "ScrumOrchestrator": 47625
     }
