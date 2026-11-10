@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e198d3b6-6e57-4ce1-9f73-adbd631ad293" name="Changes" comment="Installed horseless-carriage">
+    <list default="true" id="e198d3b6-6e57-4ce1-9f73-adbd631ad293" name="Changes" comment="Updated horseless-carriage">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/horseless-carriage" beforeDir="false" afterPath="$PROJECT_DIR$/horseless-carriage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/stories/US-0001-Implement-User-Registration.md" beforeDir="false" afterPath="$PROJECT_DIR$/specs/stories/US-0001-Implement-User-Registration.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/stories/US-0006-Implement-JWT-based-authentication.md" beforeDir="false" afterPath="$PROJECT_DIR$/specs/stories/US-0006-Implement-JWT-based-authentication.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,22 +14,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CI-Till-Krempel"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CI-Till-Krempel&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:CI-Till-Krempel/decide-o-mat-KMP.git",
-    "accountId": "88a96345-86db-4e72-aeaf-e311959e70b8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:CI-Till-Krempel/decide-o-mat-KMP.git&quot;,
+    &quot;accountId&quot;: &quot;88a96345-86db-4e72-aeaf-e311959e70b8&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LbXD892VFHopzpGQxisErSXXGs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "#5 on sprint-backlog/1",
+    "git-widget-placeholder": "steering/scrummaster-identity-20261110091846",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/tkrempel/decide-o-mat-KMP",
     "nodejs_package_manager_path": "npm"
@@ -71,6 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Installed horseless-carriage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Installed horseless-carriage" />
+    <MESSAGE value="Updated horseless-carriage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated horseless-carriage" />
   </component>
 </project>
