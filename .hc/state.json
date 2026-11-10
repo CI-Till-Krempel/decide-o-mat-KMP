@@ -197,6 +197,13 @@
       "status": "open",
       "category": "steering",
       "sprint_number": 2
+    },
+    {
+      "description": "ScrumMaster is repeatedly calling start_sprint with the same arguments without addressing the underlying issue.",
+      "owner": "ScrumMaster",
+      "status": "open",
+      "category": "steering",
+      "sprint_number": 2
     }
   ],
   "retro_actions": [
@@ -216,9 +223,9 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 695580,
+    "total": 769098,
     "agents": {
-      "ScrumMaster": 386247,
+      "ScrumMaster": 459765,
       "ProductOwner": 261708,
       "ScrumOrchestrator": 47625
     }
