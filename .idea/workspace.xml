@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e198d3b6-6e57-4ce1-9f73-adbd631ad293" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/horseless-carriage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decide-o-mat" beforeDir="false" afterPath="$PROJECT_DIR$/decide-o-mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/requirements/PRD.md" beforeDir="false" afterPath="$PROJECT_DIR$/specs/requirements/PRD.md" afterDir="false" />
+    <list default="true" id="e198d3b6-6e57-4ce1-9f73-adbd631ad293" name="Changes" comment="Installed horseless-carriage">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/horseless-carriage" beforeDir="false" afterPath="$PROJECT_DIR$/horseless-carriage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/stories/US-0001-Implement-User-Registration.md" beforeDir="false" afterPath="$PROJECT_DIR$/specs/stories/US-0001-Implement-User-Registration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/stories/US-0006-Implement-JWT-based-authentication.md" beforeDir="false" afterPath="$PROJECT_DIR$/specs/stories/US-0006-Implement-JWT-based-authentication.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "#5 on sprint-backlog/1",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/tkrempel/decide-o-mat-KMP",
     "nodejs_package_manager_path": "npm"
@@ -68,5 +68,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Installed horseless-carriage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Installed horseless-carriage" />
   </component>
 </project>
