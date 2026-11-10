@@ -228,6 +228,12 @@
       "decision": "Commit local changes to avoid branch conflicts before starting the sprint.",
       "rationale": "The local changes in \\.idea/workspace.xml are preventing the checkout of the 'develop' branch. Committing these changes will allow the ScrumMaster to proceed with starting the sprint without encountering errors.",
       "owner": "ScrumMaster"
+    },
+    {
+      "title": "Local Changes Handling",
+      "decision": "Commit local changes to avoid branch conflicts before starting the sprint.",
+      "rationale": "The local changes in \\.idea/workspace.xml are preventing the checkout of the 'develop' branch. Committing these changes will allow the ScrumMaster to proceed with starting the sprint without encountering errors.",
+      "owner": "ScrumMaster"
     }
   ],
   "sprint_report": "",
@@ -236,10 +242,10 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 1332625,
+    "total": 1419494,
     "agents": {
-      "ScrumMaster": 836065,
-      "ProductOwner": 448935,
+      "ScrumMaster": 894545,
+      "ProductOwner": 477324,
       "ScrumOrchestrator": 47625
     }
   },
