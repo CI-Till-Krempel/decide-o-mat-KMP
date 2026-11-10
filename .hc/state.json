@@ -180,7 +180,7 @@
   "sprint_number": 2,
   "sprint_backlog_pr_sprint": 1,
   "sprint_backlog_pr_opened": true,
-  "planning_output_commit_count": 2,
+  "planning_output_commit_count": 3,
   "sprint_backlog_pr_content_baseline": 2,
   "sprint_backlog": [],
   "impediment_log": [
@@ -216,9 +216,9 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 647953,
+    "total": 695580,
     "agents": {
-      "ScrumMaster": 338620,
+      "ScrumMaster": 386247,
       "ProductOwner": 261708,
       "ScrumOrchestrator": 47625
     }
@@ -690,6 +690,15 @@
       "created_at": "2026-11-10T09:48:56.262236+00:00",
       "resolved": true,
       "resolved_at": "2026-11-10T09:49:27.561935+00:00"
+    },
+    {
+      "id": 16,
+      "kind": "critical_error",
+      "summary": "Could not check out 'develop': local changes would be overwritten",
+      "detail": "Error message: 'Your local changes to the following files would be overwritten by checkout:\n\t.idea/workspace.xml\nPlease commit your changes or stash them before you switch branches.\nAborting'",
+      "created_at": "2026-11-10T09:59:33.947452+00:00",
+      "resolved": false,
+      "resolved_at": null
     }
   ],
   "overclaim_rejection_counts": {},
