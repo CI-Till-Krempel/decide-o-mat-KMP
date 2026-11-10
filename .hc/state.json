@@ -216,16 +216,23 @@
       "sprint_number": 2
     }
   ],
-  "decision_log": [],
+  "decision_log": [
+    {
+      "title": "Repeated start_sprint Call Issue",
+      "decision": "Stop calling start_sprint with the same arguments and address the underlying issue.",
+      "rationale": "The ScrumMaster is repeatedly calling start_sprint with the same goal, causing a loop and preventing progress. The local changes preventing the checkout should be committed or stashed. Once the changes are integrated or stashed, the ScrumMaster can attempt to start the sprint again.",
+      "owner": "ScrumMaster"
+    }
+  ],
   "sprint_report": "",
   "budgets": {
     "total": 10000000,
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 1136585,
+    "total": 1164408,
     "agents": {
-      "ScrumMaster": 723614,
+      "ScrumMaster": 751437,
       "ProductOwner": 365346,
       "ScrumOrchestrator": 47625
     }
