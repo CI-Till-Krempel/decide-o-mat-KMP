@@ -223,9 +223,9 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 1054712,
+    "total": 1136585,
     "agents": {
-      "ScrumMaster": 641741,
+      "ScrumMaster": 723614,
       "ProductOwner": 365346,
       "ScrumOrchestrator": 47625
     }
@@ -733,6 +733,15 @@
       "created_at": "2026-11-10T10:11:44.790295+00:00",
       "resolved": true,
       "resolved_at": "2026-11-10T10:12:13.275147+00:00"
+    },
+    {
+      "id": 20,
+      "kind": "critical_error",
+      "summary": "ScrumMaster is repeatedly calling start_sprint with the same arguments without addressing the underlying issue and is encountering errors while checking out the 'develop' branch",
+      "detail": "Error message: 'Your local changes to the following files would be overwritten by checkout:\n\t.idea/workspace.xml\nPlease commit your changes or stash them before you switch branches.\nAborting'",
+      "created_at": "2026-11-10T10:24:14.632867+00:00",
+      "resolved": false,
+      "resolved_at": null
     }
   ],
   "overclaim_rejection_counts": {},
