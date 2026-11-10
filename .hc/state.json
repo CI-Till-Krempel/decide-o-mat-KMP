@@ -223,10 +223,10 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 974521,
+    "total": 1054712,
     "agents": {
-      "ScrumMaster": 587875,
-      "ProductOwner": 339021,
+      "ScrumMaster": 641741,
+      "ProductOwner": 365346,
       "ScrumOrchestrator": 47625
     }
   },
