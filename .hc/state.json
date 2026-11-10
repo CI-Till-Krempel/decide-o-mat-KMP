@@ -242,9 +242,9 @@
     "total_usd": 0.5
   },
   "token_usage": {
-    "total": 1419494,
+    "total": 1478703,
     "agents": {
-      "ScrumMaster": 894545,
+      "ScrumMaster": 953754,
       "ProductOwner": 477324,
       "ScrumOrchestrator": 47625
     }
@@ -770,6 +770,15 @@
       "created_at": "2026-11-10T10:36:56.162420+00:00",
       "resolved": true,
       "resolved_at": "2026-11-10T10:37:23.269159+00:00"
+    },
+    {
+      "id": 22,
+      "kind": "critical_error",
+      "summary": "ScrumMaster is unable to commit local changes to avoid branch conflicts",
+      "detail": "The local changes in \\.idea/workspace.xml are preventing the checkout of the 'develop' branch. Despite multiple attempts to integrate or stash the changes, the issue persists.",
+      "created_at": "2026-11-10T10:49:34.568034+00:00",
+      "resolved": false,
+      "resolved_at": null
     }
   ],
   "overclaim_rejection_counts": {},
