@@ -164,7 +164,14 @@
         "Ready"
       ],
       "status": "Ready",
-      "blocked": null
+      "blocked": {
+        "question": "ScrumMaster is repeatedly calling `start_sprint` with the same arguments without addressing the underlying issue and is encountering errors while checking out the 'develop' branch. How can we resolve this issue and proceed with starting the sprint?",
+        "category": "product",
+        "raised_by": "ProductOwner",
+        "raised_at_stage": "Ready",
+        "escalated_to_user": false,
+        "blocking_interaction_id": 19
+      }
     }
   ],
   "definition_of_done": [
