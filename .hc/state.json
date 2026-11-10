@@ -69,7 +69,8 @@
         "raised_by": "ProductOwner",
         "raised_at_stage": "Ready",
         "escalated_to_user": false,
-        "blocking_interaction_id": 14
+        "blocking_interaction_id": 14,
+        "mechanically_detected": true
       }
     },
     {
